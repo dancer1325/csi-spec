@@ -2,7 +2,7 @@
 
 ![CSI Logo](logo.png)
 
-This project contains the CSI [specification](spec.md) and [protobuf](csi.proto) files.
+* == CSI [specification](spec.md) & [protobuf](csi.proto) files
 
 ## CSI Adoption
 
